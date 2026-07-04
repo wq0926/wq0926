@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @wq0926
-- 👀 I am passionate about reading and exploring myself.
-- 🌱 I’m currently learning computer science，However, I am just a newbie.....
-- 💞️ I’m looking to collaborate on everything!
-- 📫 How to reach me ？How about the email(cp0926@qq.com)?
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Cuiping Cui
+
+Email: cp0926@qq.com  
+Affiliation: Lanzhou University / Hunan University  
+Research interests: Medical Image Analysis, Computational Pathology, Brain Imaging, Deep Learning
 
 
